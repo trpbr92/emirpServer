@@ -6,11 +6,19 @@
   "description": "Node/Express Info ---",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trpbr92/emirpServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trpbr92/emirpServer/issues"
+  },
+  "homepage": "https://github.com/trpbr92/emirpServer#readme"
 }
